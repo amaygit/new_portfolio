@@ -1,16 +1,52 @@
-# React + Vite
+A modern and responsive portfolio website showcasing my architectural and interior design projects, professional experience, design philosophy, and services.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About
 
-Currently, two official plugins are available:
+I am an Architect and Interior Design Consultant passionate about creating sustainable, functional, and aesthetically refined spaces. This portfolio highlights selected residential, commercial, and hospitality projects along with my design process and professional journey.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+* Modern and responsive UI
+* Smooth scrolling navigation
+* Project showcase section
+* Services overview
+* Skills and expertise section
+* Contact information
+* Mobile-friendly design
+* Built with React and Tailwind CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
 
-## Expanding the ESLint configuration
+* React
+* Vite
+* Tailwind CSS
+* Lucide React Icons
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Sections
+
+* Hero
+* About
+* Skills
+* Projects
+* Services
+* Contact
+
+## Design Philosophy
+
+My work focuses on creating human-centered spaces that balance functionality, sustainability, and timeless aesthetics. Every project is approached with careful attention to context, materials, and the unique needs of its users.
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
+```
+
+## Build for Production
+
+```bash
+npm run build
+```
+
+
+
