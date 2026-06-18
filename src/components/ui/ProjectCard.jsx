@@ -1,6 +1,7 @@
 import React from 'react'
-
-const ProjectCard = () => {
+import {ExternalLink,Github,TrendingUp} from 'lucide-react'
+const ProjectCard = ({project}) => {
+  const {title,description,image,category,technologies,metrics,demoUrl,twitterUrl} = project;
   return (
     <div>ProjectCard</div>
   )

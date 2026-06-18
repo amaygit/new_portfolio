@@ -68,6 +68,7 @@ export const projects = [
   ];
 
   export const categories = [
+    'All',
     'Residential',
     'Commercial',
     'Interior Design',

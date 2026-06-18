@@ -6,7 +6,7 @@ export const PERSONAL_INFO = {
     tagline: 'Designing sustainable, human-centered spaces with timeless architectural detail.',
     resume: '/resume.pdf',
     bio: [
-      'I am an architect and interior design consultant focused on creating thoughtful residential, commercial, and hospitality spaces.',
+      'I am an architect and interior design student focused on creating thoughtful residential, commercial, and hospitality spaces.',
       'My work blends spatial planning, sustainable design strategies, material sensitivity, and modern visualization tools to bring every project from concept to construction.',
       'From eco-villas and workplace interiors to boutique hospitality projects, I design spaces that feel functional, elegant, and deeply connected to their surroundings.'
     ]
@@ -19,17 +19,16 @@ export const PERSONAL_INFO = {
   
   export const STATS = [
     { label: 'Years Experience', value: '3+' },
-    { label: 'Projects Completed', value: '50+' },
-    { label: 'Design Tools', value: '15+' },
+    { label: 'Projects Completed', value: '25+' },
+    { label: 'Design Tools', value: '30+' },
     { label: 'Client Satisfaction', value: '98%' }
   ];
   
   export const ABOUT_STATS = [
-    { label: 'Happy Clients', value: '45+' },
-    { label: 'Sq Ft Designed', value: '2.5M+' },
-    { label: 'Sustainable Projects', value: '18+' }
+    { label: "Years Learning", value: "3+" },
+    { label: "Academic Projects", value: "25+" },
+    { label: "Design Tools", value: "30+" },
   ];
-  
   export const NAV_LINKS = [
     { id: 'about', label: 'About' },
     { id: 'skills', label: 'Skills' },

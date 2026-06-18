@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react'
 import {Code,Menu,X} from 'lucide-react'
 import {NAV_LINKS,PERSONAL_INFO} from '../../utils/constants'
 import { scrollToSection, useScrollSpy } from '../../hooks/useScrollSpy';
+import {SiSketchup} from 'react-icons/si'
 const Navbar = () => {
 
     const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -34,7 +35,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <div className="flex items-center gap-4">
-            <Code className="w-6 h-6 text-primary" />
+            <SiSketchup className="w-6 h-6 text-primary" />
             <button
               onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
               className="text-2xl font-bold bg-linear-to-r from-primary via-primary/50 to-primary/30 bg-clip-text text-transparent hover:opacity-80 transition-opacity"
