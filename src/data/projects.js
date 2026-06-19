@@ -36,7 +36,7 @@ export const projects = [
       id: 4,
       title: 'Community Cultural Center',
       description: 'A public pavilion featuring an innovative timber canopy structure designed to blend seamlessly into the surrounding park landscape.',
-      image: '/images/projects/project4.png',
+      image: '/images/projects/project4.jpeg',
       category: 'Sustainable Design',
       technologies: ['Revit', 'Rhino', 'Enscape', 'ClimateStudio'],
       metrics: '100% Solar-Powered Facility',

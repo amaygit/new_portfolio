@@ -14,7 +14,8 @@ export const PERSONAL_INFO = {
   
   export const SOCIAL_LINKS = {  
     twitter: 'https://x.com/Basavarajeshw10',
-    dribbble: 'https://dribbble.com'
+    dribbble: 'https://dribbble.com',
+    instagram: 'https://www.instagram.com/rajeshwari_k_p/',
   };
   
   export const STATS = [
@@ -34,5 +35,7 @@ export const PERSONAL_INFO = {
     { id: 'skills', label: 'Skills' },
     { id: 'projects', label: 'Projects' },
     { id: 'services', label: 'Services' },
+    // { id: 'testimonial', label: 'testimonial' },
+
     { id: 'contact', label: 'Contact' }
   ];
